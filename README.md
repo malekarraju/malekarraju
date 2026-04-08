@@ -10,7 +10,7 @@ Certainly! Here's the updated README.md with links to the skill images:
 ## Skills
 
 💻C/C++, Java,  Python
-🛠️ Keil, Proteuos, matlab, Multisim
+🛠️ Keil, Proteuos, Matlab, Simulink, Multisim
 🔌 Embedded Systems | 🖥️ Digital System Design | 📊 Circuit Simulation  
 
 ## Projects
