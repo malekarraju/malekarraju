@@ -29,7 +29,7 @@ I'm passionate about embedded systems development, microcontroller programming, 
 ## Connect With Me
 
 - **GitHub:** [@malekarraju](https://github.com/malekarraju)
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** [Add your LinkedIn profile URL here](https://www.linkedin.com/in/raju-malekar/)
 
 ---
 
